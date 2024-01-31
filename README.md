@@ -38,7 +38,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=weronikamazurczak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=weronikamazurczak&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ### 😂 Random Dev Meme
