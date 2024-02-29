@@ -1,5 +1,5 @@
 <h1 align="center"><h1 align="center">Hi 👋, I'm Weronika Mazurczak</h1>
-<h3 align="center">A third-year Computer Science student the Politechnika Świętokrzyska</h3>
+<h3 align="center">A third-year Computer Science student at the Politechnika Świętokrzyska</h3>
 
 
 # 💫 About Me:
